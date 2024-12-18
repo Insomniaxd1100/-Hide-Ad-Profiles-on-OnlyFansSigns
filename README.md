@@ -1,4 +1,4 @@
-# Hide Ad Profiles on OnlyFans
+#  Hide Ad Profiles on OnlyFansSigns fanscout onlyselects  onlyfanssigns  UserScript
 
 A user script to hide ad profiles on OnlyFans, enhancing your browsing experience by removing unwanted advertisements.
 
